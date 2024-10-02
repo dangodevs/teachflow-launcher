@@ -11,7 +11,7 @@ This project is a microservices-based application that includes a gateway servic
 
 ## Docker Setup
 
-The project uses Docker for containerization. The [`docker-compose.yml`]("./docker-compose.yml") file defines the services and their configurations.
+The project uses Docker for containerization. The [`docker-compose.yml`]("docker-compose.yml") file defines the services and their configurations.
 
 ### Running the Services
 
