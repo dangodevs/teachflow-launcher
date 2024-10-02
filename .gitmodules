@@ -1,0 +1,6 @@
+[submodule "dd-teachflow-gateway"]
+	path = dd-teachflow-gateway
+	url = https://github.com/dangodevs/dd-teachflow-gateway.git
+[submodule "dd-utils"]
+	path = dd-utils
+	url = https://github.com/dangodevs/dd-utils.git
